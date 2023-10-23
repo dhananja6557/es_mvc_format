@@ -32,5 +32,6 @@
 		  	</form>
 		</main>
 	</div>
+	
 </div>
 <?php $this->view('incdocs/footer'); ?>
